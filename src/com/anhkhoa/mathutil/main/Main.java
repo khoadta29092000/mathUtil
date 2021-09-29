@@ -23,6 +23,7 @@ public class Main {
         System.out.println("1! = 1?" + MathUtil.getFactorial(1));
         System.out.println("2! = 2?" + MathUtil.getFactorial(2));
         System.out.println("3! = 6?" + MathUtil.getFactorial(3));
+        System.out.println("3! = 6?" + MathUtil.getFactorial(4));
         
     }
 }
