@@ -25,7 +25,7 @@ public class FactorialTest {
         Assert.assertEquals(720,MathUtil.getFactorial(6));
         Assert.assertEquals(1,MathUtil.getFactorial(0));
         
-        Assert.assertEquals(1,MathUtil.getFactorial(2));
+        Assert.assertEquals(1,MathUtil.getFactorial(1));
         
     }
     

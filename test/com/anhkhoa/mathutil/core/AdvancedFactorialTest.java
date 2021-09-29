@@ -41,8 +41,8 @@ public class AdvancedFactorialTest {
                             {2, 2},
                             {3, 6},
                             {4, 24},
-                            {4, 120},
-                            {6, 120},
+                            {5, 120},
+                            {6, 720},
                            };
 }   
      //biến là tham số thì tham số hoá
